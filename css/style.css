@@ -1,0 +1,17 @@
+.text-red {
+	color: red;
+}
+
+.text-gren {
+	color: green;
+}
+
+.text-yellow {
+	color: yellow;
+}
+span {
+	color: rebeccapurple;
+}
+span .blye {
+	color: blue;
+}
